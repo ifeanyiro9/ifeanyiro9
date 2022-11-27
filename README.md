@@ -1,14 +1,15 @@
-### Hi there 👋
+### Welcome! 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
+I'm a DevOps | Cloud Engineer & a Professional Track & Field Athlete. I am interested in Automation and leveraging AWS to build solutions to solve problems that can impact the world. Follow My Journey Up—Towards The Cloud! 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ifeanyi%20Otuonye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifeanyi-otuonye/)](https://www.linkedin.com/in/ifeanyi-otuonye/)
+[![Medium Badge](https://img.shields.io/badge/Ifeanyi%20Otuonye-12100E?style=flat-square&logo=medium&logoColor=white&link=https:https://medium.com/@ifeanyiro)](https://medium.com/@ifeanyiro)
+[![Gmail Badge](https://img.shields.io/badge/-ifeanyiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ifeanyiro@gmail.com)](mailto:ifeanyiro@gmail.com)
 
 ## ⚡ Technologies
 
@@ -21,12 +22,13 @@ Find out more about me & feel free to connect with me here:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ifeanyiro9&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyiro9&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ifeanyiro9%2Fifeanyiro9&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
