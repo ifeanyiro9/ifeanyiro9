@@ -2,7 +2,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-I'm a DevOps | Cloud Engineer & Professional Track & Field Athlete. I am interested in Automation and leveraging AWS to build solutions to solve problems that can have global impacts. Follow My Journey Up—Towards The Cloud! 
+I'm a DevOps | Cloud Engineer who transitioned from a being a Pro Track & Field Athlete. I'm passionate about Automation and leveraging the Cloud to build solutions to solve problems with global impacts. Follow My Journey Towards The Cloud! 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
